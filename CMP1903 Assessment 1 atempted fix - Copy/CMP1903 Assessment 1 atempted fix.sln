@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMP1903 Assessment 1 atempted fix", "CMP1903 Assessment 1 atempted fix\CMP1903 Assessment 1 atempted fix.csproj", "{A407E057-3390-45FE-8299-5D4C83618A68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A407E057-3390-45FE-8299-5D4C83618A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A407E057-3390-45FE-8299-5D4C83618A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A407E057-3390-45FE-8299-5D4C83618A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A407E057-3390-45FE-8299-5D4C83618A68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E76E96F0-1648-4202-86B9-B572B5C03923}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\adamr\source\repos\CMP1903 Assessment 1 atempted fix\CMP1903 Assessment 1 atempted fix\bin\Debug\netcoreapp3.1\CMP1903 Assessment 1 atempted fix.exe
+C:\Users\adamr\source\repos\CMP1903 Assessment 1 atempted fix\CMP1903 Assessment 1 atempted fix\bin\Debug\netcoreapp3.1\CMP1903 Assessment 1 atempted fix.deps.json
+C:\Users\adamr\source\repos\CMP1903 Assessment 1 atempted fix\CMP1903 Assessment 1 atempted fix\bin\Debug\netcoreapp3.1\CMP1903 Assessment 1 atempted fix.runtimeconfig.json
+C:\Users\adamr\source\repos\CMP1903 Assessment 1 atempted fix\CMP1903 Assessment 1 atempted fix\bin\Debug\netcoreapp3.1\CMP1903 Assessment 1 atempted fix.runtimeconfig.dev.json
+C:\Users\adamr\source\repos\CMP1903 Assessment 1 atempted fix\CMP1903 Assessment 1 atempted fix\bin\Debug\netcoreapp3.1\CMP1903 Assessment 1 atempted fix.dll
+C:\Users\adamr\source\repos\CMP1903 Assessment 1 atempted fix\CMP1903 Assessment 1 atempted fix\bin\Debug\netcoreapp3.1\CMP1903 Assessment 1 atempted fix.pdb
+C:\Users\adamr\source\repos\CMP1903 Assessment 1 atempted fix\CMP1903 Assessment 1 atempted fix\obj\Debug\netcoreapp3.1\CMP1903 Assessment 1 atempted fix.csprojAssemblyReference.cache
+C:\Users\adamr\source\repos\CMP1903 Assessment 1 atempted fix\CMP1903 Assessment 1 atempted fix\obj\Debug\netcoreapp3.1\CMP1903 Assessment 1 atempted fix.AssemblyInfoInputs.cache
+C:\Users\adamr\source\repos\CMP1903 Assessment 1 atempted fix\CMP1903 Assessment 1 atempted fix\obj\Debug\netcoreapp3.1\CMP1903 Assessment 1 atempted fix.AssemblyInfo.cs
+C:\Users\adamr\source\repos\CMP1903 Assessment 1 atempted fix\CMP1903 Assessment 1 atempted fix\obj\Debug\netcoreapp3.1\CMP1903 Assessment 1 atempted fix.csproj.CoreCompileInputs.cache
+C:\Users\adamr\source\repos\CMP1903 Assessment 1 atempted fix\CMP1903 Assessment 1 atempted fix\obj\Debug\netcoreapp3.1\CMP1903 Assessment 1 atempted fix.dll
+C:\Users\adamr\source\repos\CMP1903 Assessment 1 atempted fix\CMP1903 Assessment 1 atempted fix\obj\Debug\netcoreapp3.1\CMP1903 Assessment 1 atempted fix.pdb
+C:\Users\adamr\source\repos\CMP1903 Assessment 1 atempted fix\CMP1903 Assessment 1 atempted fix\obj\Debug\netcoreapp3.1\CMP1903 Assessment 1 atempted fix.genruntimeconfig.cache
